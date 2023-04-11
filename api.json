@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 69,
+    "articles": [
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "GM recalls 140000 Chevrolet Bolt EVs over fire risks - Reuters",
+            "description": "General Motors Co <a href=\"https://www.reuters.com/companies/GM.N\" target=\"_blank\">(GM.N)</a> said Tuesday it is recalling 140,000 Chevrolet Bolt EVs in North America because the carpet could catch fire after a crash where a front seat belt pretensioner deplo…",
+            "url": "https://www.reuters.com/business/autos-transportation/gm-recalls-140000-chevrolet-bolt-evs-over-fire-risks-2022-12-21/",
+            "urlToImage": "https://www.reuters.com/resizer/5ameQn7Ev0dpLfWl7d0OU5Pdhzk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ZXJ4FUPR3VIQZGUU2PPHCVID3A.jpg",
+            "publishedAt": "2022-12-21T13:35:33Z",
+            "content": "WASHINGTON, Dec 20 (Reuters) - General Motors Co (GM.N) said Tuesday it is recalling 140,000 Chevrolet Bolt EVs in North America because the carpet could catch fire after a crash where a front seat b… [+490 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Jack Pitcher",
+            "title": "Tesla Bears Are Sitting on $15 Billion in Gains This Year - The Wall Street Journal",
+            "description": "Reversal of fortunes for Elon Musk’s company has been music to the ears of the stock’s many detractors",
+            "url": "https://www.wsj.com/articles/tesla-bears-are-sitting-on-15-billion-in-gains-this-year-11671627666",
+            "urlToImage": "https://images.wsj.net/im-689856/social",
+            "publishedAt": "2022-12-21T13:01:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": "Ian Sherr",
+            "title": "Tesla Customers Are Getting Turned Off by Elon Musk's Twitter Meltdowns - CNET",
+            "description": "Tesla salespeople say \"a lot\" of customers canceling reservations and not signing new leases blame Musk's Twitter behavior.",
+            "url": "https://www.cnet.com/tech/tesla-customers-are-getting-turned-off-by-elon-musks-twitter-meltdowns/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/af06fcf5189eab6a7bb9d5dc1ec794af60065254/hub/2021/12/02/37ba4d98-8bba-4972-8cbe-254ad4235d59/tesla-model-3-1080p.jpg?auto=webp&fit=crop&height=630&width=1200",
+            "publishedAt": "2022-12-21T13:00:00Z",
+            "content": "The last straw for Heather was Elon Musk's vitriolic attacks on Anthony Fauci, one of the world's most respected immunologists and outgoing director of the National Institute of Allergy and Infectiou… [+12087 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Alexandra Semenova",
+            "title": "Stock market news live updates: Stock futures rise as Wall Street fights back from sell-off - Yahoo Finance",
+            "description": "U.S. stocks pushed higher at Wednesday's open, as strong earnings from Nike and FedEx offered a boost to investors looking to claw back from a recent bout of...",
+            "url": "https://finance.yahoo.com/news/stock-market-news-live-updates-december-21-2022-123750903.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/0C1xU4Z.HcG_gwaY26OjcQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2022-12/98e5b4b0-8124-11ed-b4ff-e3e43840d9b0",
+            "publishedAt": "2022-12-21T12:37:50Z",
+            "content": "U.S. stocks pushed higher at Wednesday's open, as strong earnings from Nike and FedEx offered a boost to investors looking to claw back from a recent bout of selling.\r\nThe S&amp;P 500 (^GSPC) gained … [+3437 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Starting next year, customers will be paying higher Georgia Power bills - 11Alive",
+            "description": "GA Power customers will see about a 12% increase over the next three years",
+            "url": "https://www.youtube.com/watch?v=vhghEZ_soxk",
+            "urlToImage": "https://i.ytimg.com/vi/vhghEZ_soxk/hqdefault.jpg",
+            "publishedAt": "2022-12-21T12:17:09Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Michael Wayland",
+            "title": "I drove hundreds of miles 'hands-free' in GM, Ford and Tesla cars – here's how it went - CNBC",
+            "description": "CNBC's Michael Wayland recently tested \"hands-free\" systems from Tesla, GM and Ford. Theirs are among the most readily available and dynamic on the market.",
+            "url": "https://www.cnbc.com/2022/12/21/test-driving-gm-ford-and-tesla-hands-free-systems.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107167814-1671219537672-IMG-5682.jpg?v=1671624001&w=1920&h=1080",
+            "publishedAt": "2022-12-21T12:00:01Z",
+            "content": "The 2023 Lincoln Corsair will offer the company's next-generation ActiveGlide hands-free advanced driver assistance system (ADAS) for highway driving including lane-changing, in-lane positioning and … [+10665 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Diana Olick",
+            "title": "Mortgage refinance demand surged 6%, as rates dropped to the lowest level since September - CNBC",
+            "description": "Mortgage applications to refinance a home loan jumped 6% last week from the previous week.",
+            "url": "https://www.cnbc.com/2022/12/21/mortgage-refinance-demand-surged-6percent-as-interest-rates-dropped.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/104121456-GettyImages-522433028.jpg?v=1671624001&w=1920&h=1080",
+            "publishedAt": "2022-12-21T12:00:01Z",
+            "content": "Mortgage interest rates dropped again last week, and while that did little to bolster demand from homebuyers, it did send homeowners looking for savings on their monthly payments.\r\nApplications to re… [+1897 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Arjun Kharpal",
+            "title": "Cryptocurrencies could cause the next financial crisis, Indian central bank head warns - CNBC",
+            "description": "Shaktikanta Das, governor of the Reserve Bank of India, said his main concern is that cryptocurrencies do not have any underlying value.",
+            "url": "https://www.cnbc.com/2022/12/21/cryptocurrencies-could-cause-the-next-financial-crisis-rbi-reserve-bank-of-india-head.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107069560-1654078537245-gettyimages-1235570446-porzycki-cryptocu210928_npIa0.jpeg?v=1671628801&w=1920&h=1080",
+            "publishedAt": "2022-12-21T11:53:30Z",
+            "content": "The next financial crisis will be caused by private cryptocurrencies, if these assets are allowed to grow, the head of India's central bank warned on Wednesday.\r\n\"Cryptocurrencies have huge inherent … [+2774 chars]"
+        },
+        {
+            "source": {
+                "id": "financial-times",
+                "name": "Financial Times"
+            },
+            "author": "Hannah Murphy",
+            "title": "Elon Musk blames cost cuts at Twitter on '$3bn negative cash flow' - Financial Times",
+            "description": "Social network’s owner offers snapshot of dire finances to explain huge lay-offs since $44bn takeover",
+            "url": "https://www.ft.com/content/3ec97c05-eaea-4c7f-bdf4-50547fff3c19",
+            "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F3269ac98-8859-46f0-96c1-f67b03ce3c4c.jpg?source=next-opengraph&fit=scale-down&width=900",
+            "publishedAt": "2022-12-21T11:28:32Z",
+            "content": "Elon Musk has defended his financial stewardship of Twitter, arguing that the social media platform would have faced a negative cash flow situation of $3 billion a year were it not for his controvers… [+3368 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Michael Sainato",
+            "title": "Keystone pipeline raises concerns after third major spill in five years - The Guardian",
+            "description": "An investigation into the pipeline’s largest spill is under way in Kansas as a recent report points to a deteriorating safety record",
+            "url": "https://www.theguardian.com/environment/2022/dec/21/oil-spills-keystone-pipeline-seem-worse-kansas",
+            "urlToImage": "https://i.guim.co.uk/img/media/905be88fc60ef94e1adb0ce362ccb5c683b2292d/0_117_3189_1913/master/3189.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2a945719e9734751d2888ee959c9f9f6",
+            "publishedAt": "2022-12-21T11:00:00Z",
+            "content": "The Keystone pipeline, which traverses 2,600 miles from western Canada through the central US, leaked an estimated 14,000 barrels of oil, more than half a million gallons, into a creek in Washington … [+8101 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Brian Sozzi",
+            "title": "Nike stock surges as its biggest problem may be vanishing - Yahoo Finance",
+            "description": "Nike is fixing one its biggest issues of the last six months.",
+            "url": "https://finance.yahoo.com/news/nike-stock-surges-earnings-inventory-problem-105928402.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/SA_8IaHCcWdeVNowoKZzXg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2022-12/5f548510-811e-11ed-bf7f-c3378059686d",
+            "publishedAt": "2022-12-21T10:59:28Z",
+            "content": "Nike (NKE) is getting its inventory bloat under control, much to the delight of investors.\r\nShares of the apparel and footwear giant surged 12% in pre-market trading on Wednesday as better-than-expec… [+3419 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CoinDesk"
+            },
+            "author": "Aoyon Ashraf, Eliza Gkritsi",
+            "title": "Core Scientific, One of the Largest Bitcoin Miners, Files for Bankruptcy Protection - CoinDesk",
+            "description": "The publicly traded miner expects support from some of the holders of its convertible notes in a restructuring deal.",
+            "url": "https://www.coindesk.com/business/2022/12/21/core-scientific-one-of-the-largest-bitcoin-miners-files-for-bankruptcy-protection/",
+            "urlToImage": "https://www.coindesk.com/resizer/FvO5oUUK5dPETsOnmlzj78aWfl0=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/KVVLXMVGPVDA3LA6GKWNPAO2GA.jpg",
+            "publishedAt": "2022-12-21T09:17:00Z",
+            "content": "Core Scientific (CORZ), one of the largest bitcoin (BTC) miners by computing power, filed for bankruptcy on Wednesday and reached a deal with some of its lenders to restructure its debt.\r\nThe company… [+5082 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Europe Stock Futures Rise in Sign of Risk Appetite: Markets Wrap - Bloomberg",
+            "description": null,
+            "url": "https://www.bloomberg.com/tosv2.html?vid=&uuid=38515688-812f-11ed-8a8f-585852786945&url=L25ld3MvYXJ0aWNsZXMvMjAyMi0xMi0yMC9hc2lhLXN0b2Nrcy1vdXRsb29rLW1peGVkLWFzLWJvai1tb3ZlLXJldmVyYmVyYXRlcy1tYXJrZXRzLXdyYXA=",
+            "urlToImage": null,
+            "publishedAt": "2022-12-21T06:46:00Z",
+            "content": "To continue, please click the box below to let us know you're not a robot."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Sheila Chiang",
+            "title": "Investments are set to flow back into China as tech giants avoid U.S. delisting, government pledges policy support, says investment manager - CNBC",
+            "description": "As Chinese tech companies avoid U.S. delisting risk, investment dollars could flow back into these names, says investment manager KraneShares.",
+            "url": "https://www.cnbc.com/2022/12/21/investments-could-flow-back-into-china-as-companies-avoid-us-delisting.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107169392-1671597067475-gettyimages-1232008154-BC_ChineseFlag2021_4168.jpeg?v=1671603866&w=1920&h=1080",
+            "publishedAt": "2022-12-21T06:17:38Z",
+            "content": "Chinese e-commerce giant Alibaba was one of the 100 over companies that had faced the risk of delisting in the U.S. in 2024 if their audit information was not made available to PCAOB inspectors.\r\nAs … [+1161 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Fox Business"
+            },
+            "author": "Ken Martin",
+            "title": "Sam Bankman-Fried's extradition hearing set for Wednesday - Fox Business",
+            "description": "A hearing is scheduled for Wednesday in a Bahamian court to take up the issue of the FTX founder's possible extradition U.S.",
+            "url": "https://www.foxbusiness.com/markets/sam-bankman-frieds-extradition-hearing-set-wednesday",
+            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2022/12/0/0/FTX-Sam-Bankman-Fried-Bahamas-Court-Appearance-3.jpg?ve=1&tl=1",
+            "publishedAt": "2022-12-21T05:25:12Z",
+            "content": "The founder and former CEO of FTX will have a hearing Wednesday in a Bahamian court on his possible extradition U.S. \r\nSam Bankman-Fried faces criminal charges related to the collapse of the cryptocu… [+2248 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Allyson Chiu, Brady Dennis",
+            "title": "3M to cease making and using dangerous ‘forever chemicals’ - The Washington Post",
+            "description": "The announcement comes as 3M is facing an onslaught of lawsuits from states and individuals who are claiming contamination from PFAS chemicals harmed their health.",
+            "url": "https://www.washingtonpost.com/climate-solutions/2022/12/20/3m-forever-chemicals-pfas/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JURDJAORQHSTY6GW25SOB2TOYE.jpg&w=1440",
+            "publishedAt": "2022-12-21T02:27:00Z",
+            "content": "Comment on this story\r\nConsumer products giant 3M announced Tuesday that it will stop making and using a ubiquitous class of long-lasting, hazardous chemicals that can pose health risks to millions o… [+4646 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Jihye Lee",
+            "title": "Asia-Pacific markets mostly higher as Japanese stocks see second day of losses - CNBC",
+            "description": "Markets in the Asia-Pacific traded mixed after Wall Street ended its four-day losing streak as global bonds rose after the Bank of Japan adjusted its yield curve control tolerance.",
+            "url": "https://www.cnbc.com/2022/12/21/asia-pacific-markets-set-to-trade-mixed-after-wall-street-ends-losing-streak.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107169325-1671579704929-gettyimages-1243657053-JAPAN_TANKAN.jpeg?v=1671580441&w=1920&h=1080",
+            "publishedAt": "2022-12-21T02:12:00Z",
+            "content": "The Bank of Japan's surprise policy shift sent interest rates rising globally, as investors reacted to more evidence central bankers around the world will continue to pressure interest rates higher. … [+890 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Esther Fung",
+            "title": "FedEx Earnings Fall as Package Shipments Decline Again - The Wall Street Journal",
+            "description": "Delivery giant says it plans additional cost cutting as it confronts weaker demand",
+            "url": "https://www.wsj.com/articles/fedex-fdx-q3-earnings-report-2023-11671572001",
+            "urlToImage": "https://images.wsj.net/im-681851/social",
+            "publishedAt": "2022-12-21T00:41:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Jim Cramer says these 7 stocks will be winners in 2023 - CNBC Television",
+            "description": "Cramer offered investors a list of his stock picks for next year.",
+            "url": "https://www.youtube.com/watch?v=McBfZO66Mes",
+            "urlToImage": "https://i.ytimg.com/vi/McBfZO66Mes/maxresdefault.jpg",
+            "publishedAt": "2022-12-21T00:34:45Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Wall St closes slightly higher after four-day sell off - Reuters.com",
+            "description": "Wall Street closed slightly higher on Tuesday after four sessions of declines, but investors fretted about weak holiday shopping and rising bond yields added pressure after the Bank of Japan's (BoJ) surprise tweak of monetary policy.",
+            "url": "https://www.reuters.com/markets/us/futures-subdued-after-bojs-policy-surprise-2022-12-20/",
+            "urlToImage": "https://www.reuters.com/resizer/YLmhWehcSPf83jpcxb_5NZwvu1s=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/KLSBJWBSURPJFAFCBKNXXO3XMM.jpg",
+            "publishedAt": "2022-12-21T00:09:00Z",
+            "content": "Dec 20 (Reuters) - Wall Street closed slightly higher on Tuesday after four sessions of declines, but investors fretted about weak holiday shopping and rising bond yields added pressure after the Ban… [+4210 chars]"
+        }
+    ]
+}
